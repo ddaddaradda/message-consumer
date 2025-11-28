@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+log/
+*.txt
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Java IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+target/
+
+# Compiled Class Files
+bin/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# MongoDB
+*.bson
+
+# Kafka
+*.log.*
+*.index
+*.timeindex
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# OS
+Thumbs.db
+.DS_Store
+.directory
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Documentation
+docs/_build/
+
+# Serena (Claude Code MCP)
+.serena/
+
+# Claude Code
+.claude/
